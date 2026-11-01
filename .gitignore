@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.zip
+*.exe
+*.dll
+pydeps/
+disassembly.pickle
+localization-report.json
+qt-buttons-report.json
+work/
+release-assets/

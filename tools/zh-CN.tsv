@@ -1,0 +1,695 @@
+&File	文件
+&Edit	编辑
+&View	视图
+&Select	选择
+&Image	图像
+&Filters	滤镜
+&Layer	图层
+&Help	帮助
+New canvas	新建画布
+Preset	预设
+Units	单位
+Width	宽度
+Height	高度
+Resolution	分辨率
+Background	背景
+Open project	打开项目
+Import image	导入图像
+Create canvas	创建画布
+Transparent	透明
+White	白色
+Black	黑色
+Pixels	像素
+Inches	英寸
+Centimeters	厘米
+Millimeters	毫米
+Custom	自定义
+Layers	图层
+Transform	变换
+Auto-select layer	自动选择图层
+Show controls	显示控件
+Lock aspect ratio	锁定比例
+Snap to edges and centers	吸附边缘和中心
+High quality	高质量
+Flip H	水平翻转
+Flip V	垂直翻转
+Apply Transform	应用变换
+Normal	正常
+Angle	角度
+Create a canvas or import an image.	创建画布或导入图像。
+Create a canvas or import an image	创建画布或导入图像
+File	文件
+Edit	编辑
+View	视图
+Select	选择
+Image	图像
+Filters	滤镜
+Layer	图层
+Help	帮助
+Canvas	画布
+&Canvas	画布
+&Transform	变换
+&Adjustments	调整
+Adjustments	调整
+Clipboard	剪贴板
+&Clipboard	剪贴板
+Tools	工具
+&New Canvas…	新建画布…
+&Import Image…	导入图像…
+&Export Image…	导出图像…
+&Open Project…	打开项目…
+&Save Project	保存项目
+Save Project &As…	项目另存为…
+New Canvas…	新建画布…
+New Canvas	新建画布
+Open Project…	打开项目…
+Import Image…	导入图像…
+Export Image…	导出图像…
+Save Project	保存项目
+Save Project As…	项目另存为…
+Close Project	关闭项目
+Open Recent	最近打开
+Open &Recent	最近打开
+Clear Menu	清空列表
+Exit	退出
+About Compositor	关于 Compositor
+Check for Updates…	检查更新…
+Check for Updates	检查更新
+Undo	撤销
+Redo	重做
+Undo 	撤销 
+Redo 	重做 
+Cut	剪切
+Copy	复制
+Paste	粘贴
+Copy Merged	合并复制
+Layer via Copy	通过拷贝的图层
+Clear	清除
+All	全部
+Select All	全选
+Deselect	取消选择
+Inverse	反选
+Invert	反相
+Expand…	扩展…
+Contract…	收缩…
+Fill…	填充…
+Fill	填充
+Trim	裁边
+Rotate 90° Clockwise	顺时针旋转90°
+Rotate 90° Counterclockwise	逆时针旋转90°
+Feather…	羽化…
+Color Range…	色彩范围…
+Guides	参考线
+Appearance	外观
+Mac-style title bar	Mac风格标题栏
+Snap	吸附
+Layout Grid	布局网格
+Grid Settings…	网格设置…
+Snap To	吸附到
+Grid	网格
+Layer Edges	图层边缘
+Layer Centers	图层中心
+Document Edges	文档边缘
+Document Center	文档中心
+Text Layer…	文字图层…
+Keyboard Shortcuts…	键盘快捷键…
+Command Palette…	命令面板…
+Fit Canvas	适合画布
+Actual Pixels	实际像素
+Pixel Grid	像素网格
+Rulers	标尺
+Canvas-Only Full Screen	仅画布全屏
+Canvas Size…	画布大小…
+Image Size…	图像大小…
+Flip Canvas Horizontally	水平翻转画布
+Flip Canvas Vertically	垂直翻转画布
+Flip Canvas Horizontal	水平翻转画布
+Flip Canvas Vertical	垂直翻转画布
+Crop Tool	裁剪工具
+Apply Crop	应用裁剪
+Cancel Crop	取消裁剪
+New Layer	新建图层
+Duplicate Layer	复制图层
+Rename Layer…	重命名图层…
+Rename Layer	重命名图层
+Delete Layer	删除图层
+Raise Layer	上移图层
+Lower Layer	下移图层
+New Group	新建组
+Group Selected	将所选图层编组
+Ungroup	取消编组
+Move Out of Group	移出组
+Create / Release Clipping Mask	创建/释放剪贴蒙版
+Merge Layers	合并图层
+Copy Layer to Project…	将图层复制到项目…
+Add White Mask (Reveal Selection)	添加白色蒙版（显示选区）
+Add Black Mask (Hide Selection)	添加黑色蒙版（隐藏选区）
+Add White Mask (Hide Selection)	添加白色蒙版（隐藏选区）
+Add Black Mask (Reveal Selection)	添加黑色蒙版（显示选区）
+Reveal All	显示全部
+Hide All	隐藏全部
+Enable / Disable Mask	启用/禁用蒙版
+Link / Unlink Mask	链接/取消链接蒙版
+Delete Mask	删除蒙版
+Edit Image	编辑图像
+Edit Mask	编辑蒙版
+Select Image Alpha	选择图像不透明区域
+Select Mask Black Areas	选择蒙版黑色区域
+Mask	蒙版
+Free Transform	自由变换
+Distort	扭曲
+Transform Options	变换选项
+Cancel Transform	取消变换
+Flip Layer Horizontally	水平翻转图层
+Flip Layer Vertically	垂直翻转图层
+Scale…	缩放…
+Flip Horizontal	水平翻转
+Flip Vertical	垂直翻转
+Scale (%)	缩放 (%)
+New Adjustment Layer	新建调整图层
+Hue/Saturation	色相/饱和度
+Levels	色阶
+Curves	曲线
+Exposure	曝光
+Gradient Map	渐变映射
+Grain	颗粒
+Black & White	黑白
+Color Balance	色彩平衡
+Gaussian Blur	高斯模糊
+Motion Blur	动感模糊
+Add Noise	添加杂色
+Black and White	黑白
+Edit Adjustment Layer…	编辑调整图层…
+Last Filter	上次滤镜
+Last Filter: 	上次滤镜：
+Lens Correction	镜头校正
+Camera Raw Filter	Camera Raw 滤镜
+Content-Aware Fill	内容识别填充
+Vignette	暗角
+Bloom	辉光
+Tonal Contrast	色调对比
+Dither	抖动
+Scanlines	扫描线
+Remove Background…	移除背景…
+Remove Background	移除背景
+Hue/Saturation…	色相/饱和度…
+Levels…	色阶…
+Curves…	曲线…
+Exposure…	曝光…
+Gradient Map…	渐变映射…
+Grain…	颗粒…
+Invert…	反相…
+Black and White…	黑白…
+Color Balance…	色彩平衡…
+Gaussian Blur…	高斯模糊…
+Motion Blur…	动感模糊…
+Add Noise…	添加杂色…
+Move (V)	移动 (V)
+Hand (H)	抓手 (H)
+Marquee (M)	选框 (M)
+Lasso (L)	套索 (L)
+Polygon	多边形
+Wand (W)	魔棒 (W)
+Brush (B)	画笔 (B)
+Eraser (E)	橡皮擦 (E)
+Clone (S)	仿制 (S)
+Heal (J)	修复 (J)
+Retouch (R)	修饰 (R)
+Gradient (G)	渐变 (G)
+Shape (U)	形状 (U)
+Crop (C)	裁剪 (C)
+Eyedropper (I)	吸管 (I)
+Zoom (Z)	缩放 (Z)
+Type (T)	文字 (T)
+Brush Options	画笔选项
+Editing target	编辑目标
+Paint mask white	将蒙版涂白
+Erase	擦除
+Paint	绘画
+Brush opacity slider	画笔不透明度滑块
+Brush hardness slider	画笔硬度滑块
+Brush diameter	画笔直径
+Hardness	硬度
+Opacity	不透明度
+Brush hardness	画笔硬度
+Brush opacity	画笔不透明度
+Brush	画笔
+Layer Opacity	图层不透明度
+Object selection	对象选择
+Magic wand	魔棒
+Opacity percent	不透明度百分比
+Layer Blend Mode	图层混合模式
+Layer blend mode	图层混合模式
+Layer opacity	图层不透明度
+Layer list	图层列表
+Size	大小
+Hue	色相
+Saturation	饱和度
+Offset	偏移
+Amount	数量
+Roughness	粗糙度
+Cyan	青色
+Magenta	洋红
+Yellow	黄色
+Color Levels:	色阶：
+Tone Balance	色调平衡
+Shadows	阴影
+Midtones	中间调
+Highlights	高光
+Reds	红色
+Yellows	黄色
+Greens	绿色
+Cyans	青色
+Blues	蓝色
+Magentas	洋红
+Reverse	反向
+Channel	通道
+Reset Levels	重置色阶
+Master	全局
+Range	范围
+Lightness	明度
+Apply outside this range instead	改为应用到范围之外
+Colorize	着色
+Reset Hue/Saturation	重置色相/饱和度
+Applying adjustment…	正在应用调整…
+Preview	预览
+Right	右
+Down	下
+Left	左
+Input black	输入黑场
+Gamma	伽马
+Input white	输入白场
+Output black	输出黑场
+Output white	输出白场
+Loading histogram...	正在载入直方图…
+Sample original	原图取样
+Gray	灰色
+Contrast	对比度
+Color	颜色
+Color + neutral midtones	颜色和中性中间调
+Neutral	中性
+Original image	原始图像
+Red	红色
+Green	绿色
+Blue	蓝色
+Sample color	颜色取样
+Add color	添加颜色
+Remove color	移除颜色
+Sample	取样
+Add	添加
+Remove	移除
+Targeted adjustment	目标调整
+Click to add a point. Drag to adjust.	单击添加控制点，拖动进行调整。
+Remove point	删除控制点
+Reset curve	重置曲线
+Input %1  |  Output %2	输入 %1  |  输出 %2
+Updating preview…	正在更新预览…
+Select an image layer	请选择图像图层
+Histogram	直方图
+Vectorscope	矢量示波器
+Highlight clipping	高光溢出
+Shadow clipping	阴影溢出
+Light	光线
+Whites	白色
+Blacks	黑色
+Auto	自动
+White Balance	白平衡
+Temperature	色温
+Tint	色调
+Vibrance	自然饱和度
+Curve	曲线
+Parametric	参数
+Point	点
+Curve Target	曲线目标
+Curve Channel	曲线通道
+Lights	亮调
+Darks	暗调
+Refine Saturation	细化饱和度
+Curve Preset	曲线预设
+Linear	线性
+Medium Contrast	中对比度
+Strong Contrast	强对比度
+Mixer	混色器
+Mixer Target	混色目标
+Luminance	明亮度
+Point Color	点颜色
+Hue Shift	色相偏移
+Saturation Shift	饱和度偏移
+Luminance Shift	明亮度偏移
+Visualize	可视化
+Point %1	控制点 %1
+Color Grading	颜色分级
+Three-Way	三向
+Global	全局
+Blending	混合
+Balance	平衡
+Effects	效果
+Texture	纹理
+Clarity	清晰度
+Dehaze	去朦胧
+Diffusion	漫射
+Halation	光晕
+Glow Style	辉光样式
+Glow	辉光
+Glow Range	辉光范围
+Glow Spread	辉光扩散
+Glow Warmth	辉光暖度
+Highlight Priority	高光优先
+Color Priority	颜色优先
+Paint Overlay	绘画叠加
+Vignette Style	暗角样式
+Vignette Midpoint	暗角中点
+Vignette Roundness	暗角圆度
+Vignette Feather	暗角羽化
+Vignette Highlights	暗角高光
+Grain Size	颗粒大小
+Grain Roughness	颗粒粗糙度
+Detail	细节
+Sharpen	锐化
+Sharpen Radius	锐化半径
+Sharpen Detail	锐化细节
+Masking	蒙版
+Luminance Noise	明亮度降噪
+Luminance Detail	明亮度细节
+Luminance Contrast	明亮度对比
+Color Noise	颜色降噪
+Color Detail	颜色细节
+Color Smoothness	颜色平滑度
+Optics	光学
+Remove Chromatic Aberration	移除色差
+Enable Lens Profile	启用镜头配置
+Defringe	去边
+Profile Distortion	配置文件畸变
+Profile Vignetting	配置文件暗角
+Distortion	畸变
+Purple Amount	紫色数量
+Purple Hue Low	紫色色相下限
+Purple Hue High	紫色色相上限
+Green Amount	绿色数量
+Green Hue Low	绿色色相下限
+Green Hue High	绿色色相上限
+Lens Vignette	镜头暗角
+Lens Vignette Midpoint	镜头暗角中点
+Geometry	几何
+Off	关闭
+Guided	引导
+Upright	透视校正
+Perspective	透视
+Rectilinear	直线
+Projection	投影
+Draw Guides	绘制参考线
+Clear Guides	清除参考线
+Vertical	垂直
+Horizontal	水平
+Rotate	旋转
+Aspect	长宽比
+Scale	缩放
+Offset X	X轴偏移
+Offset Y	Y轴偏移
+Constrain Crop	约束裁剪
+Calibration	校准
+Version 1	版本1
+Version 2	版本2
+Version 3	版本3
+Version 4	版本4
+Version 5	版本5
+Version 6	版本6
+Process	处理版本
+Shadow Tint	阴影色调
+Red Hue	红色色相
+Red Saturation	红色饱和度
+Green Hue	绿色色相
+Green Saturation	绿色饱和度
+Blue Hue	蓝色色相
+Blue Saturation	蓝色饱和度
+Search commands and tools	搜索命令和工具
+Keyboard Shortcuts	键盘快捷键
+Search commands	搜索命令
+Command	命令
+Menu	菜单
+Shortcut	快捷键
+Commands and shortcuts	命令与快捷键
+Alternate shortcut	备用快捷键
+Alternate	备用
+Restore Defaults	恢复默认
+Save	保存
+Cancel	取消
+Continue	继续
+Close	关闭
+Open	打开
+Import	导入
+Delete	删除
+Name	名称
+Enabled	启用
+Apply	应用
+Reset	重置
+Reset All	全部重置
+Done	完成
+Free	自由
+Original	原始
+Background Color	背景色
+Foreground Color	前景色
+Stroke Color…	描边颜色…
+Stroke color	描边颜色
+Shape Style	形状样式
+Crop ratio	裁剪比例
+Radial	径向
+Foreground to Background	前景色到背景色
+Foreground to Transparent	前景色到透明
+Gradient opacity	渐变不透明度
+Rectangle	矩形
+Ellipse	椭圆
+Line	直线
+Corner radius	圆角半径
+Stroke	描边
+Stroke width	描边宽度
+Crop	裁剪
+Format	格式
+Page	页面
+JPEG quality	JPEG质量
+Preview zoom	预览缩放
+Encoded size	编码大小
+Encoding %1%	编码中 %1%
+Export background	导出背景
+Saving image…	正在保存图像…
+Saving project…	正在保存项目…
+Importing images…	正在导入图像…
+Imported %1 image(s)	已导入 %1 张图像
+Some images could not be imported.	部分图像无法导入。
+Export Image	导出图像
+Import Images	导入图像
+Open Compositor Project	打开 Compositor 项目
+Open Compositor Projects	打开 Compositor 项目
+Import PSD	导入 PSD
+Receive Dropped Files	接收拖入的文件
+Receive Dropped Images	接收拖入的图像
+Radius	半径
+Distance	距离
+Gaussian	高斯
+Monochromatic	单色
+Strength	强度
+Midpoint	中点
+Threshold	阈值
+Applying filter…	正在应用滤镜…
+Applying last filter…	正在应用上次滤镜…
+Limited to the selection	仅限选区
+Gradient Mask	渐变蒙版
+Gradient	渐变
+New Blank Layer	新建空白图层
+New Project	新建项目
+Copy Layer to Project	将图层复制到项目
+Destination project	目标项目
+Layer Visibility	图层可见性
+Show Layer	显示图层
+Hide Layer	隐藏图层
+Layer editing target	图层编辑目标
+Edit image	编辑图像
+Edit mask	编辑蒙版
+Group	组
+Add Mask	添加蒙版
+Drop Shadow	投影
+Color Overlay	颜色叠加
+Inner Shadow	内阴影
+Outer Glow	外发光
+Inner Glow	内发光
+Outside	外部
+Inside	内部
+Position	位置
+Blend	混合
+Effect Color	效果颜色
+Move Layers	移动图层
+Duplicate Layers	复制图层
+Move Layer	移动图层
+Link	链接
+Folder	文件夹
+Adjustment	调整
+Text	文字
+Shape	形状
+Unlink mask	取消蒙版链接
+Link mask	链接蒙版
+Rename…	重命名…
+Hide / Show Layer	隐藏/显示图层
+Release Clipping Mask	释放剪贴蒙版
+Disable Mask	禁用蒙版
+Enable Mask	启用蒙版
+Unlink Mask	取消蒙版链接
+Link Mask	链接蒙版
+Delete Selected Layers	删除所选图层
+Grid Settings	网格设置
+Grid spacing	网格间距
+Major spacing	主网格间距
+Grid subdivisions	网格细分
+Subdivisions	细分
+Grid opacity	网格不透明度
+Grid color	网格颜色
+Grid Color	网格颜色
+Unsaved Changes	未保存的更改
+Save changes before closing this project?	关闭项目前保存更改？
+Layer Mask	图层蒙版
+Add Layer Mask	添加图层蒙版
+Add Mask from Selection	从选区添加蒙版
+Add Reveal-All Mask	添加全显蒙版
+Add Hide-All Mask	添加全隐蒙版
+Disable Layer Mask	禁用图层蒙版
+Enable Layer Mask	启用图层蒙版
+Unlink Layer Mask	取消图层蒙版链接
+Link Layer Mask	链接图层蒙版
+Delete Layer Mask	删除图层蒙版
+Copy Layer Mask	复制图层蒙版
+Replace Layer Mask	替换图层蒙版
+Load Mask Selection	载入蒙版选区
+Load Layer Selection	载入图层选区
+Add Guide	添加参考线
+Move Guide	移动参考线
+Mask background	蒙版背景
+Mask foreground	蒙版前景
+White = Reveal	白色 = 显示
+Black = Hide	黑色 = 隐藏
+Color Picker (Background Color)	拾色器（背景色）
+Color Picker (Foreground Color)	拾色器（前景色）
+Saturation and brightness	饱和度与亮度
+Brightness	亮度
+New and original colors	新颜色与原颜色
+Hex color	十六进制颜色
+Click the canvas to sample	单击画布取色
+Foreground and background colors	前景色与背景色
+Foreground color	前景色
+Background color	背景色
+Swap colors	交换颜色
+Default colors	默认颜色
+Swap foreground and background (X)	交换前景色和背景色 (X)
+Default colors (D)	默认颜色 (D)
+Photo	照片
+Print	印刷
+Art & Illustration	艺术与插画
+Web	网页
+Film & Video	电影与视频
+New canvas; drop into a new project	新建画布；拖入以创建新项目
+New canvas — Drop images or layers here for new projects	新建画布 — 拖入图像或图层以创建项目
+Canvas preset	画布预设
+Canvas units	画布单位
+Width in %1	宽度（%1）
+Height in %1	高度（%1）
+Close %1	关闭 %1
+Project tabs	项目标签页
+Project workspace	项目工作区
+Marquee shape	选框形状
+Selection mode	选区模式
+Antialias	抗锯齿
+Wand tolerance	魔棒容差
+Wand sample size	魔棒取样大小
+Contiguous	连续
+Sample All Layers	对所有图层取样
+Noise reduction	降噪
+Lens correction	镜头校正
+Rendering preview…	正在渲染预览…
+RAW preview	RAW预览
+Blur Mask	模糊蒙版
+Blur	模糊
+Smudge	涂抹
+Liquify	液化
+Spot Healing	污点修复
+Retouch Options	修饰选项
+Clone Stamp (S)	仿制图章 (S)
+Spot Healing (J)	污点修复 (J)
+Smear (R)	涂抹 (R)
+Healing mode	修复模式
+Content-Aware	内容识别
+Create Texture	创建纹理
+Proximity Match	近似匹配
+Smear mode	涂抹模式
+Aligned	对齐
+Retouch diameter	修饰直径
+Retouch hardness	修饰硬度
+Retouch opacity	修饰不透明度
+Retouch hardness slider	修饰硬度滑块
+Retouch opacity slider	修饰不透明度滑块
+Smear	涂抹
+Clone source: %1, %2	仿制源：%1, %2
+Alt-click where Clone Stamp should copy from first.	先按住Alt并单击，设置仿制图章取样点。
+Expand Selection	扩展选区
+Contract Selection	收缩选区
+Feather Selection	羽化选区
+Feather	羽化
+Color Range	色彩范围
+Tolerance	容差
+Selection Options	选区选项
+Polygonal Lasso	多边形套索
+Lasso kind	套索类型
+Freehand	自由绘制
+Polygonal	多边形
+Expand	扩展
+Contract	收缩
+Expand pixels	扩展像素
+Contract pixels	收缩像素
+New selection	新建选区
+Subtract	减去
+Magic Wand Options	魔棒选项
+Tolerance 	容差 
+Point Sample	点取样
+Type Options	文字选项
+Text font	文字字体
+Multiple	混合
+Text style	文字样式
+Text size	文字大小
+Text color	文字颜色
+Tracking	字距
+Leading	行距
+Apply Text Color	应用文字颜色
+Align left	左对齐
+Align center	居中
+Align right	右对齐
+Text Color	文字颜色
+Regular	常规
+Bold	粗体
+Italic	斜体
+Bold Italic	粗斜体
+New Text Layer	新建文字图层
+Edit Text	编辑文字
+Transform scale percent	变换缩放比例
+Transform sampling	变换采样
+Transform Selection	变换选区
+Distort Layer Mask	扭曲图层蒙版
+Transform Layer Mask	变换图层蒙版
+Distort Layers	扭曲图层
+Transform Layers	变换图层
+Transform Layer	变换图层
+Update Available	有可用更新
+Download…	下载…
+Skip This Version	跳过此版本
+Later	稍后
+Preparing update check…	正在准备检查更新…
+Update status	更新状态
+Update progress	更新进度
+Check for new stable releases automatically	自动检查新的稳定版本
+Check for New Release	检查新版本
+Check again	再次检查
+Install Update	安装更新
+Restart Compositor	重启 Compositor
+Running version: 	当前版本：
+Checking for a new stable release…	正在检查新的稳定版本…
+No newer update is available.	当前已是最新版本。
+Close window	关闭窗口
+Minimize window	最小化窗口
+Maximize or restore window	最大化或还原窗口
+Magic Wand	魔棒
